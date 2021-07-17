@@ -1,0 +1,190 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:#dfd6a7 
+}
+.name{
+	width: 100%;
+    height: 300px;
+	background: #372248; 	
+	transform: skewY(5deg)
+}
+
+.name .first{
+	width: 50%;
+	height: 60%;
+	position: absolute;
+	left: 25%;
+	
+}
+
+.name .first .P1{
+    color:#fff9a5;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 	52px;
+	transform: skewY(-5deg)
+}
+
+.name .first .P2{
+color:#fff9a5;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 	22px;
+	transform: skewY(-5deg);
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+.name .img{
+	position: absolute;
+	top: 8%;
+	right: 5%;
+	width:180px;
+	height: 180px;
+	border-radius: 85%;
+	transform: skewY(-5deg);
+	overflow: hidden;   
+	
+	
+}
+.name .img img { 
+	width:120px;
+	height:320px;
+}
+
+	
+
+
+.cat{
+	width: 90%;
+	height: auto;
+	background:#372248 ;
+	margin: 5% auto;	
+	padding: 15px; 
+	font-family: 'Noto Sans JP', sans-serif;
+	border-radius:40px; 
+
+	}
+.cat .titleboss{ 
+	color: #fff9a5;
+	text-align: center;
+	font-size: x-large;	
+	font-weight: bold;
+	border-bottom:2px white solid ;	
+	letter-spacing: 13px;
+}
+
+.cat .titleinfo{
+	color:#fff9a5;
+	font-weight: bold;
+	font-size: large;
+
+	
+	
+}
+
+.cat .infoinfo{
+	color:#fff9a5;
+	font-weight: bold;
+	font-size: large;
+	
+	
+}
+
+.cat .source{
+	color:#fff9a5;
+	font-weight: bold;
+	font-size: large;
+	
+	
+}
+
+.data{
+		width: 90%;
+	height: auto;
+	background:#372248 ;
+	margin: 5% auto;	
+	padding: 15px; 
+	font-family: 'Noto Sans JP', sans-serif;
+	border-radius:40px; 
+
+	
+	
+}
+.data .lemon {
+	color: #fff9a5;
+	text-align: center;
+	font-size: x-large;	
+	font-weight: bold;
+	border-bottom:2px white solid ;	
+	letter-spacing: 13px;
+	
+	
+}
+.data .apple{
+	color:#fff9a5;
+	font-weight:bold;
+	font-size:large;
+	
+}
+.data .strawberry{
+	color:#fff9a5;
+	font-weight:bold;
+	font-size:large;
+	
+}
+.data .orange{
+	color:#fff9a5;
+	font-weight:bold;
+	font-size:large;
+	
+}
+.data .pear{
+	color:#fff9a5;
+	font-weight:bold;
+	font-size:large;
+	
+} 
+.home{ 
+	width: 90%;
+	height: auto;
+	background:#372248 ;
+	margin: 5% auto;	
+	padding: 15px; 
+	font-family: 'Noto Sans JP', sans-serif;
+	border-radius:40px; 
+
+	}
+
+.home .rule {
+	color: #fff9a5;
+	text-align: center;
+	font-size: x-large;	
+	font-weight: bold;
+	border-bottom:2px white solid ;	
+	letter-spacing: 13px;
+	
+	
+	
+}
+.home .bath {
+	color:#fff9a6;
+	font-weight:bold;
+	font-size: large;
+	
+	
+}
+.home .table{
+	color:#fff9a6;
+	font-weight:bold;
+	font-size: large;
+	
+	
+}
+.home .door{
+	color:#fff9a6;
+	font-weight:bold;
+	font-size: large;
+	
+	
+}	
+	
